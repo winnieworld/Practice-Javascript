@@ -2,7 +2,8 @@
    <h1>BAEKJOON _ NODE.JS</h1>
     
    </div>
-  
+  <a href="백준 외\main.md">백준 외</a>
+
   <ol>
    <li><a>입출력과 사칙연산</a></li>
    <li><a>if문, for문, while문</a></li>
