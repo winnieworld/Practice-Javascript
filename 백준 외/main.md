@@ -29,4 +29,7 @@
 <li>
 <a href="신고결과 받기.md">프로그래머스_신고결과 받기</a>
 </li>
+<li>
+<a href="LeetCode_twoSum.md">LeetCode_twoSum</a>
+</li>
 </ol>
