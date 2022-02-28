@@ -35,4 +35,7 @@
 <li>
 <a href="DefenseCastle.md">DefenseCastle</a>
 </li>
+<li>
+<a href="MaximumCubicNumber.md">MaximumCubicNumber</a>
+</li>
 </ol>
