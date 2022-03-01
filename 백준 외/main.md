@@ -38,4 +38,7 @@
 <li>
 <a href="MaximumCubicNumber.md">MaximumCubicNumber</a>
 </li>
+<li>
+<a href="오픈채팅방.md">프로그래머스_오픈채팅방</a>
+</li>
 </ol>
