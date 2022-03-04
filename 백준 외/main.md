@@ -47,4 +47,7 @@
 <li>
 <a href="MostAppearNumber.md">MostAppearNumber</a>
 </li>
+<li>
+<a href="Search in Rotated Sorted Array.md">Search in Rotated Sorted Array</a>
+</li>
 </ol>
