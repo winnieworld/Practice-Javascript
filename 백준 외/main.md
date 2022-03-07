@@ -56,4 +56,7 @@
 <li>
 <a href="Longest Common Prefix.md">Longest Common Prefix</a>
 </li>
+<li>
+<a href="Search Insert Position.md">Search Insert Position</a>
+</li>
 </ol>
